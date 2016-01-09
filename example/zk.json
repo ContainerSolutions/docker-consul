@@ -1,0 +1,5 @@
+{
+  "Datacenter": "dc1", "Node": "minimesos-zookeeper",
+   "Address": "172.17.0.3",
+   "Service": {"Service": "zookeeper", "Port": 2181}
+}
